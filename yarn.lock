@@ -8104,6 +8104,10 @@ superstruct@^0.14.2:
   resolved "https://registry.npmjs.org/superstruct/-/superstruct-0.14.2.tgz"
   integrity sha512-nPewA6m9mR3d6k7WkZ8N8zpTWfenFH3q9pA2PkuiZxINr9DKB2+40wEQf0ixn8VaGuJ78AB6iWOtStI+/4FKZQ==
 
+"superstruct@git+https://github.com/Bruce-zxy/superstruct.git#react-native-compatibility":
+  version "0.16.0"
+  resolved "git+https://github.com/Bruce-zxy/superstruct.git#88e54b358a6864fffd97aa229771872992f1c657"
+
 supports-color@8.1.1:
   version "8.1.1"
   resolved "https://registry.npmjs.org/supports-color/-/supports-color-8.1.1.tgz"
